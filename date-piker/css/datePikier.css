@@ -1,0 +1,9 @@
+.horaEscolha {
+    width:100px;
+    height: 100px;
+    background: #EEE;
+    color: #fff;
+    position: absolute;
+    display: none;
+
+}

@@ -30,7 +30,7 @@ $(function(){
 
         $('#resultado').html("Seu IMC é: " + imc+ " Kg/m e seu status é: " + traducao);
 
-
     });
 
 });
+console.log("teste")
